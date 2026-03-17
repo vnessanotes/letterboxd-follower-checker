@@ -1,5 +1,8 @@
 # Letterboxd Follow Checker :)
 
+**English** | [Español](README.es.md)
+
+---
 A simple browser-based tool that allows you to see which users you follow on Letterboxd who do not follow you back.
 No external APIs, servers or data collection are involved.
 
@@ -23,5 +26,3 @@ No external APIs, servers or data collection are involved.
 - Large accounts may take longer to process due to pagination (multiple pages of followers/following)
 - This is an unofficial tool and is not affiliated with Letterboxd
 - This project is intended for personal and educational use
-
-
