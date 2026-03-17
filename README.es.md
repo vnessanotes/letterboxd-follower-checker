@@ -22,7 +22,7 @@ No usa APIs, servidores ni recopila tus datos
 5. Presiona `Enter` y listo :)   
   
 ## Notas  
-- No es necesario iniciar sesión, pero si estás logueado, al hacer clic en "View" puedes dejar de seguir al usuario más fácilmente si así lo deseas  
+- No es necesario iniciar sesión
 - No se almacena nada de tus datos, ni se envía información, todo se lleva a cabo localmente en tu navegador  
 - Las cuentas grandes se pueden tardar más por la cantidad de páginas en following/followers  
 - Esta herramienta no es oficial y no está asociada a Letterboxd  
