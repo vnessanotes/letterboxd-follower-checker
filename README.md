@@ -3,8 +3,8 @@
 **English** | [Español](README.es.md)
 
 ---
-A simple browser-based tool that allows you to see which users you follow on Letterboxd who do not follow you back.
-No external APIs, servers or data collection are involved.
+A simple browser-based tool that allows you to see which users you follow on Letterboxd who do not follow you back
+No external APIs, servers or data collection are involved
 
 ## Features
 - Displays users you follow who do not follow you back
@@ -17,7 +17,7 @@ No external APIs, servers or data collection are involved.
    - Chrome / Edge: `F12` or `Ctrl + Shift + I` (Windows/Linux)
    - `Cmd + Option + I` (Mac)
 3. Go to the **Console** tab
-4. Paste the script (follow-checker.js)
+4. Paste the script (`follow-checker.js`)
 5. Press `Enter` and enjoy! :) 
 
 ## Notes
