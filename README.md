@@ -26,3 +26,4 @@ No external APIs, servers or data collection are involved
 - Large accounts may take longer to process due to pagination (multiple pages of followers/following)
 - This is an unofficial tool and is not affiliated with Letterboxd
 - This project is intended for personal and educational use
+- Follow me if you want! :) [https://boxd.it/UOzX]
